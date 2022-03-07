@@ -1,0 +1,12 @@
+C:\Users\raku2\source\repos\Puzlle Solver\bin\Debug\Puzlle Solver.exe.config
+C:\Users\raku2\source\repos\Puzlle Solver\bin\Debug\Puzlle Solver.exe
+C:\Users\raku2\source\repos\Puzlle Solver\bin\Debug\Puzlle Solver.pdb
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.csproj.AssemblyReference.cache
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.csproj.SuggestedBindingRedirects.cache
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle_Solver.Properties.Resources.resources
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.csproj.GenerateResource.cache
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.csproj.CoreCompileInputs.cache
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.exe
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle Solver.pdb
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle_Solver.Menu.resources
+C:\Users\raku2\source\repos\Puzlle Solver\obj\Debug\Puzlle_Solver.sudokuSolver.resources
